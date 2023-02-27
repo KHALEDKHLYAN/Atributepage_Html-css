@@ -1,0 +1,14 @@
+/* Styling the body element like body color and margin */
+body {
+    background-color: #00FA9A;
+    margin: 20%;
+}
+
+/* Styling the the Title and giving shadow to the title*/
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+/* setting font color and font sixe of thr image-captiom */
